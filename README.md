@@ -10,7 +10,7 @@ Fraud Detection - Credit Card Dataset for Fraud Detection This dataset contains 
 
 You have to implement an Anomaly Detection Algorithm over the dataset. Use statistical methods or algorithms like Isolation Forest to detect anomalous transactions that might indicate fraud. Visualise these anomalies and identify the patterns and characteristics that differentiate them from normal transactions. 
 
-**Objective 2: **
+**Objective 2:**
 **Customer Profiling - Credit Card Customer Data** - This different dataset of Credit Card Transactions is provided with various features. Firstly preprocess the data and then implement the various algorithms - 
 
 Apply k-means clustering without the use of in-built libraries like scikit-learn to segment customers based on their transaction behaviour and profiles and also determine the optimal number of clusters using methods like the Elbow method or Silhouette score.
